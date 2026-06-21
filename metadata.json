@@ -1,0 +1,6 @@
+{
+  "name": "Typing Exam Practice",
+  "description": "Government exam typing practice app with real-time analytics and strict simulation mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
